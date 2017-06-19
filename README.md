@@ -16,17 +16,17 @@ RUN "node contact" to start the app
 
 To use the app, run the following commnads:
 
-add -n <firstname> <lastname> -p <phone number>            - TO ADD CONTACT
+add -n <\firstname\> <\lastname\> -p <\phone number\>            - TO ADD CONTACT
 eg. add -n Oladimeji Akande -p +2348138002701 
 
-search <name>                                              - TO RETREIVE CONTACT INFO
+search <\name\>                                              - TO RETREIVE CONTACT INFO
 where name can be lastname or firtname
 eg. search Oladimeji
 
-text <firstname> -m <\"message\">                           - TO SEND TEXT MESSAGE
+text <\firstname\> -m <\"message\">                           - TO SEND TEXT MESSAGE
 eg. text James -m "We meet at Hogwarts, 3 PM, Anthony"
 
-delete <firstname> <lastname>                              - TO DELETE CONTACT
+delete <\firstname\> <\lastname\>                              - TO DELETE CONTACT
 
 Press Ctrl + C                                             - TO QUIT THE APP
 
